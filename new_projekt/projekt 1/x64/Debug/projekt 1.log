@@ -1,0 +1,13 @@
+﻿  File.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  FileLog.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  Folder.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  FolderLog.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  Interface.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  main on.cpp
+C:\Users\Ugur\Desktop\proekt\new_projekt\projekt 1\FileManeger.h(18,22): error C2061: синтаксическая ошибка: идентификатор "string"
+  Создание кода...

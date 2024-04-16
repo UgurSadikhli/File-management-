@@ -1,0 +1,12 @@
+﻿  File.cpp
+  Folder.cpp
+  Interface.cpp
+  main on.cpp
+  Создание кода...
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(37): warning C4715: ch1: значение возвращается не при всех путях выполнения
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(20): warning C4715: ch: значение возвращается не при всех путях выполнения
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(56): warning C4715: ch2: значение возвращается не при всех путях выполнения
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(74): warning C4715: ch3: значение возвращается не при всех путях выполнения
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(111): warning C4715: ch5: значение возвращается не при всех путях выполнения
+C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\projekt 1\Header.h(93): warning C4715: ch4: значение возвращается не при всех путях выполнения
+  projekt 1.vcxproj -> C:\Users\Ugur\Desktop\proekt\proekt\proekt\projekt 1\x64\Debug\projekt 1.exe
